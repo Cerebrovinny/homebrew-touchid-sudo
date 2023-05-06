@@ -2,7 +2,7 @@ class TouchidSudo < Formula
     desc "Enable TouchID authentication for sudo on macOS"
     homepage "https://github.com/Cerebrovinny/homebrew-touchid-sudo"
     url "https://github.com/Cerebrovinny/homebrew-touchid-sudo/archive/refs/tags/v1.0.0.tar.gz"
-    sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+    sha256 "ebd5bdccb8465f37f143115ea953e8a79b6b5aae38648edc9dfe4391bfaabca6"
     license "MIT"
   
     def install
